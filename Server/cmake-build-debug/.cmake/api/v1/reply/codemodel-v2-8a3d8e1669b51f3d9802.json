@@ -49,13 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-<<<<<<<< HEAD:Server/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8a3d8e1669b51f3d9802.json
 		"build" : "C:/Users/SSAFY/Desktop/gomoku/Server/cmake-build-debug",
 		"source" : "C:/Users/SSAFY/Desktop/gomoku/Server"
-========
-		"build" : "C:/SSAFY/workspace/gomoku/cmake-build-debug",
-		"source" : "C:/SSAFY/workspace/gomoku"
->>>>>>>> 6b7d5d8366bc3150dae274a886a11148278fead5:Server/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ced3824582d6ca59a2e6.json
 	},
 	"version" : 
 	{

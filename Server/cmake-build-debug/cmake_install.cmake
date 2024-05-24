@@ -1,12 +1,8 @@
-<<<<<<< HEAD:Server/cmake-build-debug/cmake_install.cmake
 # Install script for directory: C:/Users/SSAFY/Desktop/gomoku/Server
-=======
-# Install script for directory: C:/SSAFY/workspace/gomoku
->>>>>>> 6b7d5d8366bc3150dae274a886a11148278fead5:cmake-build-debug/cmake_install.cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/omok")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Server")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -44,9 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-<<<<<<< HEAD:Server/cmake-build-debug/cmake_install.cmake
 file(WRITE "C:/Users/SSAFY/Desktop/gomoku/Server/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
-=======
-file(WRITE "C:/SSAFY/workspace/gomoku/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
->>>>>>> 6b7d5d8366bc3150dae274a886a11148278fead5:cmake-build-debug/cmake_install.cmake
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

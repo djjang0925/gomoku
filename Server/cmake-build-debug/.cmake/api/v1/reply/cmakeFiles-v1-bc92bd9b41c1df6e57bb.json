@@ -21,11 +21,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/CMakeNMakeFindMake.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -569,21 +564,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/CMakeFindCodeBlocks.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/ProcessorCount.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "C:/cmake-3.29.2-windows-x86_64/share/cmake-3.29/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -817,8 +797,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/SSAFY/workspace/gomoku/cmake-build-debug",
-		"source" : "C:/SSAFY/workspace/gomoku"
+		"build" : "C:/Users/SSAFY/Desktop/gomoku/Server/cmake-build-debug",
+		"source" : "C:/Users/SSAFY/Desktop/gomoku/Server"
 	},
 	"version" : 
 	{
