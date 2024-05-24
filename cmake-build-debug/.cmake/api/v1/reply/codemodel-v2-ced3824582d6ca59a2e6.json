@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/SSAFY/Desktop/omok/cmake-build-debug",
-		"source" : "C:/Users/SSAFY/Desktop/omok"
+		"build" : "C:/SSAFY/workspace/gomoku/cmake-build-debug",
+		"source" : "C:/SSAFY/workspace/gomoku"
 	},
 	"version" : 
 	{
