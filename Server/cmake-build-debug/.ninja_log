@@ -1,0 +1,8 @@
+# ninja log v5
+382	504	7379719985374603	omok.exe	265f5d26694cbeca
+9	227	7382293366741599	CMakeFiles/Server.dir/check.cpp.obj	10701b18aef4bd0d
+8	484	7382277468649842	CMakeFiles/Server.dir/Board.cpp.obj	a81fe9047d57f71c
+1	292	7382293367391582	CMakeFiles/Server.dir/main.cpp.obj	a8579de064460da2
+8	282	7382225781282633	CMakeFiles/Server.dir/rule.cpp.obj	26349c4aa8eb8a38
+292	431	7382293368582059	Server.exe	684ce04a8c88c9f4
+7	481	7382289069234576	CMakeFiles/Server.dir/board.cpp.obj	a35e2150f69baf99

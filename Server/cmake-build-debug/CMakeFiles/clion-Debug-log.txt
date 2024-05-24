@@ -1,0 +1,32 @@
+<<<<<<< HEAD:Server/cmake-build-debug/CMakeFiles/clion-Debug-log.txt
+C:\cmake-3.29.2-windows-x86_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\SSAFY\Desktop\gomoku\Server -B C:\Users\SSAFY\Desktop\gomoku\Server\cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/SSAFY/Desktop/gomoku/Server/cmake-build-debug
+=======
+C:\cmake-3.29.2-windows-x86_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" -S C:\SSAFY\workspace\gomoku -B C:\SSAFY\workspace\gomoku\cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- The C compiler identification is MSVC 19.29.30154.0
+-- The CXX compiler identification is MSVC 19.29.30154.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (2.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/SSAFY/workspace/gomoku/cmake-build-debug
+>>>>>>> 6b7d5d8366bc3150dae274a886a11148278fead5:cmake-build-debug/CMakeFiles/clion-Debug-log.txt

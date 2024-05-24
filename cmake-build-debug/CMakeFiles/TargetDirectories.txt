@@ -1,3 +1,0 @@
-C:/SSAFY/workspace/gomoku/cmake-build-debug/CMakeFiles/omok.dir
-C:/SSAFY/workspace/gomoku/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/SSAFY/workspace/gomoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
