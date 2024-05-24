@@ -1,0 +1,3 @@
+C:/Users/SSAFY/Desktop/omok/cmake-build-debug/CMakeFiles/omok.dir
+C:/Users/SSAFY/Desktop/omok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SSAFY/Desktop/omok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
